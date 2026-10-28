@@ -4,7 +4,7 @@ name: Upbit 15 public market snapshot
 on:
   workflow_dispatch:
   schedule:
-    - cron: "34 * * * *"
+    - cron: "3 * * * *"
       timezone: "Asia/Seoul"
 
 permissions:
