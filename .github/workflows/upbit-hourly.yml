@@ -17,6 +17,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Check schedule trigger
+        run: |
+          echo "Trigger: ${{ github.event_name }}"
+          echo "Cron: ${{ github.event.schedule }}"
+          date -u
+          
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
