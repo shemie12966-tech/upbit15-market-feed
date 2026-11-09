@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-09T09:02:30+00:00",
-  "generated_at_kst": "2026-11-09T18:02:30+09:00",
+  "generated_at_utc": "2026-11-09T10:02:22+00:00",
+  "generated_at_kst": "2026-11-09T19:02:22+09:00",
   "source": "Upbit public REST API",
   "symbols": [
     "BTC",
@@ -25,22 +25,22 @@
       "market": "KRW-BTC",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 101194000.0,
-          "previous_close_krw": 100312000.0,
-          "change_pct": 0.879,
-          "rsi14_wilder": 33.88,
-          "mfi14": 20.8,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 100943000.0,
+          "previous_close_krw": 101194000.0,
+          "change_pct": -0.248,
+          "rsi14_wilder": 31.94,
+          "mfi14": 23.08,
           "psar": {
-            "value": 102982433.6835982,
+            "value": 102642901.64156643,
             "side": "above"
           },
-          "sma20": 102651250.0,
-          "sma50": 103177360.0,
-          "volume": 66.8154354,
-          "volume_ratio_to_previous20": 1.241,
+          "sma20": 102520950.0,
+          "sma50": 103122920.0,
+          "volume": 39.28934847,
+          "volume_ratio_to_previous20": 0.693,
           "prior20_high_krw": 104000000.0,
-          "prior20_low_krw": 100210000.0,
+          "prior20_low_krw": 100153000.0,
           "swing_structure": "HH_HL",
           "stale_periods": 0.04
         },
@@ -62,7 +62,7 @@
           "prior20_high_krw": 104000000.0,
           "prior20_low_krw": 102000000.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -82,7 +82,7 @@
           "prior20_high_krw": 112900000.0,
           "prior20_low_krw": 102123000.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -102,37 +102,37 @@
           "prior20_high_krw": 117646000.0,
           "prior20_low_krw": 88342000.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 101444000.0,
-        "observed_at_kst": "2026-11-09T18:03:31+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": -0.0099160648
+        "trade_price_krw": 100850000.0,
+        "observed_at_kst": "2026-11-09T19:03:15+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": -0.0157134492
       }
     },
     "XRP": {
       "market": "KRW-XRP",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 1492.0,
-          "previous_close_krw": 1474.0,
-          "change_pct": 1.221,
-          "rsi14_wilder": 25.58,
-          "mfi14": 5.62,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 1481.0,
+          "previous_close_krw": 1492.0,
+          "change_pct": -0.737,
+          "rsi14_wilder": 23.0,
+          "mfi14": 9.69,
           "psar": {
-            "value": 1518.04552191,
+            "value": 1508.43641753,
             "side": "above"
           },
-          "sma20": 1541.3,
-          "sma50": 1569.08,
-          "volume": 5470813.58504926,
-          "volume_ratio_to_previous20": 1.069,
+          "sma20": 1536.0,
+          "sma50": 1567.06,
+          "volume": 4221447.79098812,
+          "volume_ratio_to_previous20": 0.787,
           "prior20_high_krw": 1596.0,
           "prior20_low_krw": 1470.0,
-          "swing_structure": "HH_HL",
+          "swing_structure": "mixed",
           "stale_periods": 0.04
         },
         "4H": {
@@ -153,7 +153,7 @@
           "prior20_high_krw": 1693.0,
           "prior20_low_krw": 1506.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -173,7 +173,7 @@
           "prior20_high_krw": 1857.0,
           "prior20_low_krw": 1571.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -193,34 +193,34 @@
           "prior20_high_krw": 2331.0,
           "prior20_low_krw": 1392.0,
           "swing_structure": "mixed",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 1495.0,
-        "observed_at_kst": "2026-11-09T18:03:32+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": -0.0203145478
+        "trade_price_krw": 1478.0,
+        "observed_at_kst": "2026-11-09T19:03:17+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": -0.0314547837
       }
     },
     "ETH": {
       "market": "KRW-ETH",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 2883000.0,
-          "previous_close_krw": 2844000.0,
-          "change_pct": 1.371,
-          "rsi14_wilder": 28.61,
-          "mfi14": 12.23,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 2864000.0,
+          "previous_close_krw": 2883000.0,
+          "change_pct": -0.659,
+          "rsi14_wilder": 26.09,
+          "mfi14": 14.02,
           "psar": {
-            "value": 2971380.03448199,
+            "value": 2954534.43034415,
             "side": "above"
           },
-          "sma20": 2971200.0,
-          "sma50": 3021720.0,
-          "volume": 1350.37731808,
-          "volume_ratio_to_previous20": 0.94,
+          "sma20": 2961800.0,
+          "sma50": 3017820.0,
+          "volume": 813.6534096,
+          "volume_ratio_to_previous20": 0.543,
           "prior20_high_krw": 3066000.0,
           "prior20_low_krw": 2831000.0,
           "swing_structure": "LH_LL",
@@ -244,7 +244,7 @@
           "prior20_high_krw": 3077000.0,
           "prior20_low_krw": 2901000.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -264,7 +264,7 @@
           "prior20_high_krw": 3360000.0,
           "prior20_low_krw": 2958000.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -284,34 +284,34 @@
           "prior20_high_krw": 3777000.0,
           "prior20_low_krw": 2303000.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 2887000.0,
-        "observed_at_kst": "2026-11-09T18:03:32+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": -0.0099451303
+        "trade_price_krw": 2863000.0,
+        "observed_at_kst": "2026-11-09T19:03:17+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": -0.018175583
       }
     },
     "SOL": {
       "market": "KRW-SOL",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 118100.0,
-          "previous_close_krw": 116300.0,
-          "change_pct": 1.548,
-          "rsi14_wilder": 39.01,
-          "mfi14": 15.04,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 117300.0,
+          "previous_close_krw": 118100.0,
+          "change_pct": -0.677,
+          "rsi14_wilder": 35.73,
+          "mfi14": 18.24,
           "psar": {
-            "value": 120544.9418682,
+            "value": 120149.34651874,
             "side": "above"
           },
-          "sma20": 120085.0,
-          "sma50": 121414.0,
-          "volume": 8253.90742614,
-          "volume_ratio_to_previous20": 0.917,
+          "sma20": 119860.0,
+          "sma50": 121304.0,
+          "volume": 8077.89156473,
+          "volume_ratio_to_previous20": 0.865,
           "prior20_high_krw": 122700.0,
           "prior20_low_krw": 115600.0,
           "swing_structure": "LH_LL",
@@ -335,7 +335,7 @@
           "prior20_high_krw": 124600.0,
           "prior20_low_krw": 117700.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -355,7 +355,7 @@
           "prior20_high_krw": 144900.0,
           "prior20_low_krw": 120000.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -375,34 +375,34 @@
           "prior20_high_krw": 169700.0,
           "prior20_low_krw": 98100.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 118400.0,
-        "observed_at_kst": "2026-11-09T18:03:32+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": 0
+        "trade_price_krw": 117300.0,
+        "observed_at_kst": "2026-11-09T19:03:17+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": -0.0092905405
       }
     },
     "LINK": {
       "market": "KRW-LINK",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 14210.0,
-          "previous_close_krw": 13960.0,
-          "change_pct": 1.791,
-          "rsi14_wilder": 39.71,
-          "mfi14": 24.34,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 14150.0,
+          "previous_close_krw": 14210.0,
+          "change_pct": -0.422,
+          "rsi14_wilder": 37.74,
+          "mfi14": 27.13,
           "psar": {
-            "value": 14307.224,
-            "side": "above"
+            "value": 13870.0,
+            "side": "below"
           },
-          "sma20": 14443.0,
-          "sma50": 14629.0,
-          "volume": 16501.69421986,
-          "volume_ratio_to_previous20": 1.262,
+          "sma20": 14418.0,
+          "sma50": 14617.8,
+          "volume": 7873.94591149,
+          "volume_ratio_to_previous20": 0.574,
           "prior20_high_krw": 14740.0,
           "prior20_low_krw": 13870.0,
           "swing_structure": "LH_LL",
@@ -426,7 +426,7 @@
           "prior20_high_krw": 15020.0,
           "prior20_low_krw": 14150.0,
           "swing_structure": "mixed",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -446,7 +446,7 @@
           "prior20_high_krw": 17000.0,
           "prior20_low_krw": 13930.0,
           "swing_structure": "mixed",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -466,34 +466,34 @@
           "prior20_high_krw": 21420.0,
           "prior20_low_krw": 10670.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 14250.0,
-        "observed_at_kst": "2026-11-09T18:03:23+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": 0.0014054814
+        "trade_price_krw": 14140.0,
+        "observed_at_kst": "2026-11-09T19:03:16+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": -0.0063246662
       }
     },
     "ONDO": {
       "market": "KRW-ONDO",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 482.0,
-          "previous_close_krw": 472.0,
-          "change_pct": 2.119,
-          "rsi14_wilder": 43.44,
-          "mfi14": 29.4,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 477.0,
+          "previous_close_krw": 482.0,
+          "change_pct": -1.037,
+          "rsi14_wilder": 38.66,
+          "mfi14": 35.44,
           "psar": {
-            "value": 488.47277524,
+            "value": 486.62549771,
             "side": "above"
           },
-          "sma20": 486.9,
-          "sma50": 493.06,
-          "volume": 1494166.98846968,
-          "volume_ratio_to_previous20": 1.335,
+          "sma20": 486.25,
+          "sma50": 492.54,
+          "volume": 1339638.93701228,
+          "volume_ratio_to_previous20": 1.142,
           "prior20_high_krw": 500.0,
           "prior20_low_krw": 470.0,
           "swing_structure": "mixed",
@@ -517,7 +517,7 @@
           "prior20_high_krw": 517.0,
           "prior20_low_krw": 479.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -537,7 +537,7 @@
           "prior20_high_krw": 628.0,
           "prior20_low_krw": 490.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -557,34 +557,34 @@
           "prior20_high_krw": 824.0,
           "prior20_low_krw": 442.0,
           "swing_structure": "mixed",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 482.0,
-        "observed_at_kst": "2026-11-09T18:03:21+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": 0
+        "trade_price_krw": 476.0,
+        "observed_at_kst": "2026-11-09T19:02:41+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": -0.0124481328
       }
     },
     "HBAR": {
       "market": "KRW-HBAR",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 90.6,
-          "previous_close_krw": 89.0,
-          "change_pct": 1.798,
-          "rsi14_wilder": 48.49,
-          "mfi14": 35.08,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 90.8,
+          "previous_close_krw": 90.6,
+          "change_pct": 0.221,
+          "rsi14_wilder": 50.14,
+          "mfi14": 38.07,
           "psar": {
-            "value": 91.15704,
-            "side": "above"
+            "value": 88.8,
+            "side": "below"
           },
-          "sma20": 90.68,
-          "sma50": 91.316,
-          "volume": 1366922.871625,
-          "volume_ratio_to_previous20": 0.898,
+          "sma20": 90.67,
+          "sma50": 91.298,
+          "volume": 1077969.92312397,
+          "volume_ratio_to_previous20": 0.68,
           "prior20_high_krw": 91.7,
           "prior20_low_krw": 88.8,
           "swing_structure": "mixed",
@@ -608,7 +608,7 @@
           "prior20_high_krw": 94.2,
           "prior20_low_krw": 89.3,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -628,7 +628,7 @@
           "prior20_high_krw": 116.0,
           "prior20_low_krw": 90.3,
           "swing_structure": "mixed",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -648,34 +648,34 @@
           "prior20_high_krw": 178.0,
           "prior20_low_krw": 90.3,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 91.1,
-        "observed_at_kst": "2026-11-09T18:03:05+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": 0.0133481646
+        "trade_price_krw": 90.7,
+        "observed_at_kst": "2026-11-09T19:02:33+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": 0.0088987764
       }
     },
     "XLM": {
       "market": "KRW-XLM",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
           "close_krw": 199.0,
-          "previous_close_krw": 196.0,
-          "change_pct": 1.531,
+          "previous_close_krw": 199.0,
+          "change_pct": 0.0,
           "rsi14_wilder": 37.77,
-          "mfi14": 14.88,
+          "mfi14": 17.47,
           "psar": {
-            "value": 203.9012353,
+            "value": 203.01111177,
             "side": "above"
           },
-          "sma20": 202.65,
-          "sma50": 205.26,
-          "volume": 4561000.69499258,
-          "volume_ratio_to_previous20": 1.591,
+          "sma20": 202.3,
+          "sma50": 205.1,
+          "volume": 1984469.57000153,
+          "volume_ratio_to_previous20": 0.646,
           "prior20_high_krw": 208.0,
           "prior20_low_krw": 195.0,
           "swing_structure": "LH_LL",
@@ -699,7 +699,7 @@
           "prior20_high_krw": 214.0,
           "prior20_low_krw": 200.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -719,7 +719,7 @@
           "prior20_high_krw": 249.0,
           "prior20_low_krw": 204.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -739,13 +739,13 @@
           "prior20_high_krw": 380.0,
           "prior20_low_krw": 214.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
         "trade_price_krw": 199.0,
-        "observed_at_kst": "2026-11-09T18:03:31+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
+        "observed_at_kst": "2026-11-09T19:02:46+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
         "signed_change_rate": -0.0148514851
       }
     },
@@ -753,23 +753,23 @@
       "market": "KRW-RENDER",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 2153.0,
-          "previous_close_krw": 2070.0,
-          "change_pct": 4.01,
-          "rsi14_wilder": 56.34,
-          "mfi14": 52.09,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 2187.0,
+          "previous_close_krw": 2153.0,
+          "change_pct": 1.579,
+          "rsi14_wilder": 61.29,
+          "mfi14": 63.27,
           "psar": {
-            "value": 2166.86,
-            "side": "above"
+            "value": 2062.0,
+            "side": "below"
           },
-          "sma20": 2117.5,
-          "sma50": 2121.48,
-          "volume": 30205.87067741,
-          "volume_ratio_to_previous20": 1.319,
+          "sma20": 2122.15,
+          "sma50": 2122.22,
+          "volume": 77159.67372758,
+          "volume_ratio_to_previous20": 3.163,
           "prior20_high_krw": 2169.0,
           "prior20_low_krw": 2050.0,
-          "swing_structure": "mixed",
+          "swing_structure": "HH_HL",
           "stale_periods": 0.04
         },
         "4H": {
@@ -790,7 +790,7 @@
           "prior20_high_krw": 2192.0,
           "prior20_low_krw": 2014.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -810,7 +810,7 @@
           "prior20_high_krw": 2578.0,
           "prior20_low_krw": 1949.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -830,34 +830,34 @@
           "prior20_high_krw": 3015.0,
           "prior20_low_krw": 1729.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 2166.0,
-        "observed_at_kst": "2026-11-09T18:03:19+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": 0.0363636364
+        "trade_price_krw": 2179.0,
+        "observed_at_kst": "2026-11-09T19:01:32+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": 0.0425837321
       }
     },
     "TAO": {
       "market": "KRW-TAO",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 295200.0,
-          "previous_close_krw": 288700.0,
-          "change_pct": 2.251,
-          "rsi14_wilder": 42.24,
-          "mfi14": 32.16,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 294000.0,
+          "previous_close_krw": 295200.0,
+          "change_pct": -0.407,
+          "rsi14_wilder": 40.5,
+          "mfi14": 33.37,
           "psar": {
-            "value": 303610.19473374,
+            "value": 302019.17526036,
             "side": "above"
           },
-          "sma20": 300305.0,
-          "sma50": 303144.0,
-          "volume": 122.54855085,
-          "volume_ratio_to_previous20": 0.363,
+          "sma20": 299805.0,
+          "sma50": 302892.0,
+          "volume": 210.90622192,
+          "volume_ratio_to_previous20": 0.619,
           "prior20_high_krw": 309800.0,
           "prior20_low_krw": 287700.0,
           "swing_structure": "mixed",
@@ -881,7 +881,7 @@
           "prior20_high_krw": 310500.0,
           "prior20_low_krw": 288200.0,
           "swing_structure": "mixed",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -901,7 +901,7 @@
           "prior20_high_krw": 373400.0,
           "prior20_low_krw": 288200.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -921,36 +921,36 @@
           "prior20_high_krw": 462200.0,
           "prior20_low_krw": 263200.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 295200.0,
-        "observed_at_kst": "2026-11-09T18:00:11+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": -0.0033760972
+        "trade_price_krw": 293700.0,
+        "observed_at_kst": "2026-11-09T19:03:04+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": -0.0084402431
       }
     },
     "AKT": {
       "market": "KRW-AKT",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 808.0,
-          "previous_close_krw": 792.0,
-          "change_pct": 2.02,
-          "rsi14_wilder": 34.54,
-          "mfi14": 20.65,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 809.0,
+          "previous_close_krw": 808.0,
+          "change_pct": 0.124,
+          "rsi14_wilder": 35.23,
+          "mfi14": 23.9,
           "psar": {
-            "value": 831.38310897,
+            "value": 824.46947371,
             "side": "above"
           },
-          "sma20": 836.5,
-          "sma50": 858.48,
-          "volume": 95914.86239305,
-          "volume_ratio_to_previous20": 1.347,
+          "sma20": 833.35,
+          "sma50": 856.86,
+          "volume": 72417.18815002,
+          "volume_ratio_to_previous20": 0.961,
           "prior20_high_krw": 873.0,
-          "prior20_low_krw": 789.0,
+          "prior20_low_krw": 782.0,
           "swing_structure": "LH_LL",
           "stale_periods": 0.04
         },
@@ -972,7 +972,7 @@
           "prior20_high_krw": 906.0,
           "prior20_low_krw": 810.0,
           "swing_structure": "mixed",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -992,7 +992,7 @@
           "prior20_high_krw": 1010.0,
           "prior20_low_krw": 778.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -1012,34 +1012,34 @@
           "prior20_high_krw": 1355.0,
           "prior20_low_krw": 587.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 812.0,
-        "observed_at_kst": "2026-11-09T18:03:19+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": -0.0193236715
+        "trade_price_krw": 804.0,
+        "observed_at_kst": "2026-11-09T19:03:12+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": -0.0289855072
       }
     },
     "WLD": {
       "market": "KRW-WLD",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 432.0,
-          "previous_close_krw": 422.0,
-          "change_pct": 2.37,
-          "rsi14_wilder": 41.16,
-          "mfi14": 40.99,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 428.0,
+          "previous_close_krw": 432.0,
+          "change_pct": -0.926,
+          "rsi14_wilder": 37.99,
+          "mfi14": 44.72,
           "psar": {
-            "value": 442.54,
+            "value": 442.0892,
             "side": "above"
           },
-          "sma20": 438.45,
-          "sma50": 449.58,
-          "volume": 1559662.42298626,
-          "volume_ratio_to_previous20": 1.144,
+          "sma20": 437.45,
+          "sma50": 448.9,
+          "volume": 1330934.55774865,
+          "volume_ratio_to_previous20": 0.941,
           "prior20_high_krw": 451.0,
           "prior20_low_krw": 420.0,
           "swing_structure": "LH_LL",
@@ -1063,7 +1063,7 @@
           "prior20_high_krw": 482.0,
           "prior20_low_krw": 424.0,
           "swing_structure": "mixed",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -1083,7 +1083,7 @@
           "prior20_high_krw": 795.0,
           "prior20_low_krw": 449.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -1103,34 +1103,34 @@
           "prior20_high_krw": 1086.0,
           "prior20_low_krw": 414.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 435.0,
-        "observed_at_kst": "2026-11-09T18:03:30+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": 0.013986014
+        "trade_price_krw": 428.0,
+        "observed_at_kst": "2026-11-09T19:02:59+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": -0.0023310023
       }
     },
     "GRT": {
       "market": "KRW-GRT",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
           "close_krw": 24.7,
-          "previous_close_krw": 24.3,
-          "change_pct": 1.646,
+          "previous_close_krw": 24.7,
+          "change_pct": 0.0,
           "rsi14_wilder": 38.38,
-          "mfi14": 42.35,
+          "mfi14": 30.6,
           "psar": {
-            "value": 25.4717664,
+            "value": 25.40146042,
             "side": "above"
           },
-          "sma20": 25.235,
-          "sma50": 25.654,
-          "volume": 1228822.17528746,
-          "volume_ratio_to_previous20": 4.285,
+          "sma20": 25.19,
+          "sma50": 25.624,
+          "volume": 76867.7211015,
+          "volume_ratio_to_previous20": 0.229,
           "prior20_high_krw": 25.7,
           "prior20_low_krw": 24.3,
           "swing_structure": "LH_LL",
@@ -1154,7 +1154,7 @@
           "prior20_high_krw": 27.1,
           "prior20_low_krw": 24.8,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -1174,7 +1174,7 @@
           "prior20_high_krw": 34.7,
           "prior20_low_krw": 25.4,
           "swing_structure": "mixed",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -1194,13 +1194,13 @@
           "prior20_high_krw": 49.6,
           "prior20_low_krw": 18.2,
           "swing_structure": "mixed",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
         "trade_price_krw": 24.7,
-        "observed_at_kst": "2026-11-09T18:00:38+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
+        "observed_at_kst": "2026-11-09T18:53:21+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
         "signed_change_rate": -0.012
       }
     },
@@ -1208,20 +1208,20 @@
       "market": "KRW-ENA",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 206.0,
-          "previous_close_krw": 199.0,
-          "change_pct": 3.518,
-          "rsi14_wilder": 44.97,
-          "mfi14": 39.37,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 204.0,
+          "previous_close_krw": 206.0,
+          "change_pct": -0.971,
+          "rsi14_wilder": 41.92,
+          "mfi14": 40.51,
           "psar": {
-            "value": 207.768,
-            "side": "above"
+            "value": 198.0,
+            "side": "below"
           },
-          "sma20": 207.7,
-          "sma50": 213.5,
-          "volume": 3881670.74900419,
-          "volume_ratio_to_previous20": 1.132,
+          "sma20": 207.35,
+          "sma50": 213.1,
+          "volume": 2904089.27803092,
+          "volume_ratio_to_previous20": 0.824,
           "prior20_high_krw": 213.0,
           "prior20_low_krw": 198.0,
           "swing_structure": "LH_LL",
@@ -1245,7 +1245,7 @@
           "prior20_high_krw": 234.0,
           "prior20_low_krw": 201.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -1265,7 +1265,7 @@
           "prior20_high_krw": 300.0,
           "prior20_low_krw": 212.0,
           "swing_structure": "LH_LL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -1285,37 +1285,37 @@
           "prior20_high_krw": 399.0,
           "prior20_low_krw": 107.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 207.0,
-        "observed_at_kst": "2026-11-09T18:03:08+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": 0.0197044335
+        "trade_price_krw": 203.0,
+        "observed_at_kst": "2026-11-09T19:03:17+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": 0
       }
     },
     "AAVE": {
       "market": "KRW-AAVE",
       "frames": {
         "1H": {
-          "closed_at_kst": "2026-11-09T18:00:00+09:00",
-          "close_krw": 178300.0,
-          "previous_close_krw": 173000.0,
-          "change_pct": 3.064,
-          "rsi14_wilder": 54.39,
-          "mfi14": 41.28,
+          "closed_at_kst": "2026-11-09T19:00:00+09:00",
+          "close_krw": 177600.0,
+          "previous_close_krw": 178300.0,
+          "change_pct": -0.393,
+          "rsi14_wilder": 52.3,
+          "mfi14": 47.09,
           "psar": {
-            "value": 178664.0,
-            "side": "above"
+            "value": 172000.0,
+            "side": "below"
           },
-          "sma20": 176405.0,
-          "sma50": 177944.0,
-          "volume": 689.86098248,
-          "volume_ratio_to_previous20": 1.213,
+          "sma20": 176380.0,
+          "sma50": 177962.0,
+          "volume": 348.88970384,
+          "volume_ratio_to_previous20": 0.591,
           "prior20_high_krw": 179200.0,
           "prior20_low_krw": 171600.0,
-          "swing_structure": "mixed",
+          "swing_structure": "HH_HL",
           "stale_periods": 0.04
         },
         "4H": {
@@ -1336,7 +1336,7 @@
           "prior20_high_krw": 181500.0,
           "prior20_low_krw": 171600.0,
           "swing_structure": "mixed",
-          "stale_periods": 0.26
+          "stale_periods": 0.51
         },
         "1D": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -1356,7 +1356,7 @@
           "prior20_high_krw": 213100.0,
           "prior20_low_krw": 156100.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.38
+          "stale_periods": 0.42
         },
         "1W": {
           "closed_at_kst": "2026-11-09T09:00:00+09:00",
@@ -1376,14 +1376,14 @@
           "prior20_high_krw": 254000.0,
           "prior20_low_krw": 101800.0,
           "swing_structure": "HH_HL",
-          "stale_periods": 0.05
+          "stale_periods": 0.06
         }
       },
       "ticker": {
-        "trade_price_krw": 178400.0,
-        "observed_at_kst": "2026-11-09T18:03:31+09:00",
-        "collected_at_kst": "2026-11-09T18:03:33+09:00",
-        "signed_change_rate": 0.031810295
+        "trade_price_krw": 177600.0,
+        "observed_at_kst": "2026-11-09T19:02:29+09:00",
+        "collected_at_kst": "2026-11-09T19:03:18+09:00",
+        "signed_change_rate": 0.027183343
       }
     }
   }
